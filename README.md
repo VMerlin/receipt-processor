@@ -1,2 +1,2 @@
 # receipt-processor
-Fetch Golang receipt processor 
+Golang receipt processor 
